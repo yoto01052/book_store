@@ -1,0 +1,24 @@
+## Build Folders
+bin/
+obj/
+
+## Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+## Rider / JetBrains
+.idea/
+
+## ASP.NET Core environment files
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+## Logs
+*.log
+
+## Others
+*.db
+*.sqlite
+*.mdf
